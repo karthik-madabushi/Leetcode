@@ -1,2 +1,2 @@
 # Leetcode
-This repositor for solving and posting Leetcode solutions. 
+This repository for solving and posting Leetcode solutions. 
